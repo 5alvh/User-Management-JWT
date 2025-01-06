@@ -1,4 +1,0 @@
-package com.supportportal.SupportalApp.service;
-
-public interface UserService {
-}
